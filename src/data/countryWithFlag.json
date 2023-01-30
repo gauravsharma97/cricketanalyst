@@ -1,0 +1,1245 @@
+		[{
+			"id": "zw",
+			"name": "Zimbabwe",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ZW.svg"
+		},
+		{
+			"id": "zm",
+			"name": "Zambia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ZM.svg"
+		},
+		{
+			"id": "za",
+			"name": "South Africa",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ZA.svg"
+		},
+		{
+			"id": "yt",
+			"name": "Mayotte",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/YT.svg"
+		},
+		{
+			"id": "ye",
+			"name": "Yemen",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/YE.svg"
+		},
+		{
+			"id": "ws",
+			"name": "Samoa",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/WS.svg"
+		},
+		{
+			"id": "wf",
+			"name": "Wallis and Futuna",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/WF.svg"
+		},
+		{
+			"id": "vu",
+			"name": "Vanuatu",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/VU.svg"
+		},
+		{
+			"id": "vn",
+			"name": "Viet Nam",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/VN.svg"
+		},
+		{
+			"id": "vi",
+			"name": "Virgin Islands (U.S.)",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/VI.svg"
+		},
+		{
+			"id": "vg",
+			"name": "Virgin Islands (British)",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/VG.svg"
+		},
+		{
+			"id": "ve",
+			"name": "Venezuela",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/VE.svg"
+		},
+		{
+			"id": "vc",
+			"name": "Saint Vincent and the Grenadines",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/VC.svg"
+		},
+		{
+			"id": "va",
+			"name": "Holy See",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/VA.svg"
+		},
+		{
+			"id": "uz",
+			"name": "Uzbekistan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/UZ.svg"
+		},
+		{
+			"id": "uy",
+			"name": "Uruguay",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/UY.svg"
+		},
+		{
+			"id": "us",
+			"name": "United States of America",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/US.svg"
+		},
+		{
+			"id": "um",
+			"name": "United States Minor Outlying Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/UM.svg"
+		},
+		{
+			"id": "ug",
+			"name": "Uganda",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/UG.svg"
+		},
+		{
+			"id": "ua",
+			"name": "Ukraine",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/UA.svg"
+		},
+		{
+			"id": "tz",
+			"name": "Tanzania, the United Republic of",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TZ.svg"
+		},
+		{
+			"id": "tw",
+			"name": "Taiwan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TW.svg"
+		},
+		{
+			"id": "tv",
+			"name": "Tuvalu",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TV.svg"
+		},
+		{
+			"id": "tt",
+			"name": "Trinidad and Tobago",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TT.svg"
+		},
+		{
+			"id": "tr",
+			"name": "Turkey",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TR.svg"
+		},
+		{
+			"id": "to",
+			"name": "Tonga",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TO.svg"
+		},
+		{
+			"id": "tn",
+			"name": "Tunisia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TN.svg"
+		},
+		{
+			"id": "tm",
+			"name": "Turkmenistan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TM.svg"
+		},
+		{
+			"id": "tl",
+			"name": "Timor-Leste",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TL.svg"
+		},
+		{
+			"id": "tk",
+			"name": "Tokelau",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TK.svg"
+		},
+		{
+			"id": "tj",
+			"name": "Tajikistan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TJ.svg"
+		},
+		{
+			"id": "th",
+			"name": "Thailand",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TH.svg"
+		},
+		{
+			"id": "tg",
+			"name": "Togo",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TG.svg"
+		},
+		{
+			"id": "tf",
+			"name": "French Southern Territories",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TF.svg"
+		},
+		{
+			"id": "td",
+			"name": "Chad",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TD.svg"
+		},
+		{
+			"id": "tc",
+			"name": "Turks and Caicos Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/TC.svg"
+		},
+		{
+			"id": "sz",
+			"name": "Eswatini",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SZ.svg"
+		},
+		{
+			"id": "sy",
+			"name": "Syrian Arab Republic",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SY.svg"
+		},
+		{
+			"id": "sx",
+			"name": "Sint Maarten",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SX.svg"
+		},
+		{
+			"id": "sv",
+			"name": "El Salvador",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SV.svg"
+		},
+		{
+			"id": "st",
+			"name": "Sao Tome and Principe",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ST.svg"
+		},
+		{
+			"id": "ss",
+			"name": "South Sudan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SS.svg"
+		},
+		{
+			"id": "sr",
+			"name": "Suriname",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SR.svg"
+		},
+		{
+			"id": "so",
+			"name": "Somalia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SO.svg"
+		},
+		{
+			"id": "sn",
+			"name": "Senegal",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SN.svg"
+		},
+		{
+			"id": "sm",
+			"name": "San Marino",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SM.svg"
+		},
+		{
+			"id": "sl",
+			"name": "Sierra Leone",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SL.svg"
+		},
+		{
+			"id": "sk",
+			"name": "Slovakia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SK.svg"
+		},
+		{
+			"id": "sj",
+			"name": "Svalbard",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SJ.svg"
+		},
+		{
+			"id": "si",
+			"name": "Slovenia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SI.svg"
+		},
+		{
+			"id": "sh",
+			"name": "Saint Helena",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SH.svg"
+		},
+		{
+			"id": "sg",
+			"name": "Singapore",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SG.svg"
+		},
+		{
+			"id": "se",
+			"name": "Sweden",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SE.svg"
+		},
+		{
+			"id": "sd",
+			"name": "Sudan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SD.svg"
+		},
+		{
+			"id": "sc",
+			"name": "Seychelles",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SC.svg"
+		},
+		{
+			"id": "sb",
+			"name": "Solomon Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SB.svg"
+		},
+		{
+			"id": "sa",
+			"name": "Saudi Arabia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/SA.svg"
+		},
+		{
+			"id": "rw",
+			"name": "Rwanda",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/RW.svg"
+		},
+		{
+			"id": "ru",
+			"name": "Russian Federation",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/RU.svg"
+		},
+		{
+			"id": "rs",
+			"name": "Serbia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/RS.svg"
+		},
+		{
+			"id": "ro",
+			"name": "Romania",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/RO.svg"
+		},
+		{
+			"id": "re",
+			"name": "Réunion",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/RE.svg"
+		},
+		{
+			"id": "qa",
+			"name": "Qatar",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/QA.svg"
+		},
+		{
+			"id": "py",
+			"name": "Paraguay",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PY.svg"
+		},
+		{
+			"id": "pw",
+			"name": "Palau",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PW.svg"
+		},
+		{
+			"id": "pt",
+			"name": "Portugal",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PT.svg"
+		},
+		{
+			"id": "ps",
+			"name": "Palestine, State of",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PS.svg"
+		},
+		{
+			"id": "pr",
+			"name": "Puerto Rico",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PR.svg"
+		},
+		{
+			"id": "pn",
+			"name": "Pitcairn",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PN.svg"
+		},
+		{
+			"id": "pm",
+			"name": "Saint Pierre and Miquelon",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PM.svg"
+		},
+		{
+			"id": "pl",
+			"name": "Poland",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PL.svg"
+		},
+		{
+			"id": "pk",
+			"name": "Pakistan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PK.svg"
+		},
+		{
+			"id": "ph",
+			"name": "Philippines",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PH.svg"
+		},
+		{
+			"id": "pg",
+			"name": "Papua New Guinea",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PG.svg"
+		},
+		{
+			"id": "pf",
+			"name": "French Polynesia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PF.svg"
+		},
+		{
+			"id": "pe",
+			"name": "Peru",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PE.svg"
+		},
+		{
+			"id": "pa",
+			"name": "Panama",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/PA.svg"
+		},
+		{
+			"id": "om",
+			"name": "Oman",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/OM.svg"
+		},
+		{
+			"id": "nz",
+			"name": "New Zealand",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NZ.svg"
+		},
+		{
+			"id": "nu",
+			"name": "Niue",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NU.svg"
+		},
+		{
+			"id": "nr",
+			"name": "Nauru",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NR.svg"
+		},
+		{
+			"id": "np",
+			"name": "Nepal",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NP.svg"
+		},
+		{
+			"id": "no",
+			"name": "Norway",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NO.svg"
+		},
+		{
+			"id": "nl",
+			"name": "Netherlands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NL.svg"
+		},
+		{
+			"id": "ni",
+			"name": "Nicaragua",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NI.svg"
+		},
+		{
+			"id": "ng",
+			"name": "Nigeria",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NG.svg"
+		},
+		{
+			"id": "nf",
+			"name": "Norfolk Island",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NF.svg"
+		},
+		{
+			"id": "ne",
+			"name": "Niger",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NE.svg"
+		},
+		{
+			"id": "nc",
+			"name": "New Caledonia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NC.svg"
+		},
+		{
+			"id": "na",
+			"name": "Namibia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/NA.svg"
+		},
+		{
+			"id": "mz",
+			"name": "Mozambique",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MZ.svg"
+		},
+		{
+			"id": "my",
+			"name": "Malaysia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MY.svg"
+		},
+		{
+			"id": "mx",
+			"name": "Mexico",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MX.svg"
+		},
+		{
+			"id": "mw",
+			"name": "Malawi",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MW.svg"
+		},
+		{
+			"id": "mv",
+			"name": "Maldives",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MV.svg"
+		},
+		{
+			"id": "mu",
+			"name": "Mauritius",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MU.svg"
+		},
+		{
+			"id": "mt",
+			"name": "Malta",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MT.svg"
+		},
+		{
+			"id": "ms",
+			"name": "Montserrat",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MS.svg"
+		},
+		{
+			"id": "mr",
+			"name": "Mauritania",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MR.svg"
+		},
+		{
+			"id": "mq",
+			"name": "Martinique",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MQ.svg"
+		},
+		{
+			"id": "mp",
+			"name": "Northern Mariana Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MP.svg"
+		},
+		{
+			"id": "mo",
+			"name": "Macao",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MO.svg"
+		},
+		{
+			"id": "mn",
+			"name": "Mongolia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MN.svg"
+		},
+		{
+			"id": "mm",
+			"name": "Myanmar",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MM.svg"
+		},
+		{
+			"id": "ml",
+			"name": "Mali",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ML.svg"
+		},
+		{
+			"id": "mk",
+			"name": "North Macedonia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MK.svg"
+		},
+		{
+			"id": "mh",
+			"name": "Marshall Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MH.svg"
+		},
+		{
+			"id": "mg",
+			"name": "Madagascar",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MG.svg"
+		},
+		{
+			"id": "mf",
+			"name": "Saint Martin",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MF.svg"
+		},
+		{
+			"id": "me",
+			"name": "Montenegro",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ME.svg"
+		},
+		{
+			"id": "md",
+			"name": "Moldova",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MD.svg"
+		},
+		{
+			"id": "mc",
+			"name": "Monaco",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MC.svg"
+		},
+		{
+			"id": "ma",
+			"name": "Morocco",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/MA.svg"
+		},
+		{
+			"id": "ly",
+			"name": "Libya",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LY.svg"
+		},
+		{
+			"id": "lv",
+			"name": "Latvia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LV.svg"
+		},
+		{
+			"id": "lu",
+			"name": "Luxembourg",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LU.svg"
+		},
+		{
+			"id": "lt",
+			"name": "Lithuania",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LT.svg"
+		},
+		{
+			"id": "ls",
+			"name": "Lesotho",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LS.svg"
+		},
+		{
+			"id": "lr",
+			"name": "Liberia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LR.svg"
+		},
+		{
+			"id": "lk",
+			"name": "Sri Lanka",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LK.svg"
+		},
+		{
+			"id": "li",
+			"name": "Liechtenstein",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LI.svg"
+		},
+		{
+			"id": "lc",
+			"name": "Saint Lucia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LC.svg"
+		},
+		{
+			"id": "lb",
+			"name": "Lebanon",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LB.svg"
+		},
+		{
+			"id": "la",
+			"name": "Lao People's Democratic Republic",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/LA.svg"
+		},
+		{
+			"id": "kz",
+			"name": "Kazakhstan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KZ.svg"
+		},
+		{
+			"id": "ky",
+			"name": "Cayman Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KY.svg"
+		},
+		{
+			"id": "kw",
+			"name": "Kuwait",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KW.svg"
+		},
+		{
+			"id": "kr",
+			"name": "Korea",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KR.svg"
+		},
+		{
+			"id": "kp",
+			"name": "Korea",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KP.svg"
+		},
+		{
+			"id": "kn",
+			"name": "Saint Kitts and Nevis",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KN.svg"
+		},
+		{
+			"id": "km",
+			"name": "Comoros",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KM.svg"
+		},
+		{
+			"id": "ki",
+			"name": "Kiribati",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KI.svg"
+		},
+		{
+			"id": "kh",
+			"name": "Cambodia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KH.svg"
+		},
+		{
+			"id": "kg",
+			"name": "Kyrgyzstan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KG.svg"
+		},
+		{
+			"id": "ke",
+			"name": "Kenya",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/KE.svg"
+		},
+		{
+			"id": "jp",
+			"name": "Japan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/JP.svg"
+		},
+		{
+			"id": "jo",
+			"name": "Jordan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/JO.svg"
+		},
+		{
+			"id": "jm",
+			"name": "Jamaica",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/JM.svg"
+		},
+		{
+			"id": "je",
+			"name": "Jersey",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/JE.svg"
+		},
+		{
+			"id": "it",
+			"name": "Italy",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IT.svg"
+		},
+		{
+			"id": "is",
+			"name": "Iceland",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IS.svg"
+		},
+		{
+			"id": "ir",
+			"name": "Iran",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IR.svg"
+		},
+		{
+			"id": "iq",
+			"name": "Iraq",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IQ.svg"
+		},
+		{
+			"id": "io",
+			"name": "British Indian Ocean Territory",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IO.svg"
+		},
+		{
+			"id": "in",
+			"name": "India",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IN.svg"
+		},
+		{
+			"id": "im",
+			"name": "Isle of Man",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IM.svg"
+		},
+		{
+			"id": "il",
+			"name": "Israel",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IL.svg"
+		},
+		{
+			"id": "ie",
+			"name": "Ireland",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/IE.svg"
+		},
+		{
+			"id": "id",
+			"name": "Indonesia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ID.svg"
+		},
+		{
+			"id": "hu",
+			"name": "Hungary",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/HU.svg"
+		},
+		{
+			"id": "ht",
+			"name": "Haiti",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/HT.svg"
+		},
+		{
+			"id": "hr",
+			"name": "Croatia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/HR.svg"
+		},
+		{
+			"id": "hn",
+			"name": "Honduras",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/HN.svg"
+		},
+		{
+			"id": "hm",
+			"name": "Heard Island and McDonald Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/HM.svg"
+		},
+		{
+			"id": "hk",
+			"name": "Hong Kong",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/HK.svg"
+		},
+		{
+			"id": "gy",
+			"name": "Guyana",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GY.svg"
+		},
+		{
+			"id": "gw",
+			"name": "Guinea-Bissau",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GW.svg"
+		},
+		{
+			"id": "gu",
+			"name": "Guam",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GU.svg"
+		},
+		{
+			"id": "gt",
+			"name": "Guatemala",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GT.svg"
+		},
+		{
+			"id": "gs",
+			"name": "South Georgia and the South Sandwich Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GS.svg"
+		},
+		{
+			"id": "gr",
+			"name": "Greece",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GR.svg"
+		},
+		{
+			"id": "gq",
+			"name": "Equatorial Guinea",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GQ.svg"
+		},
+		{
+			"id": "gp",
+			"name": "Guadeloupe",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GP.svg"
+		},
+		{
+			"id": "gn",
+			"name": "Guinea",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GN.svg"
+		},
+		{
+			"id": "gm",
+			"name": "Gambia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GM.svg"
+		},
+		{
+			"id": "gl",
+			"name": "Greenland",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GL.svg"
+		},
+		{
+			"id": "gi",
+			"name": "Gibraltar",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GI.svg"
+		},
+		{
+			"id": "gh",
+			"name": "Ghana",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GH.svg"
+		},
+		{
+			"id": "gg",
+			"name": "Guernsey",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GG.svg"
+		},
+		{
+			"id": "gf",
+			"name": "French Guiana",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GF.svg"
+		},
+		{
+			"id": "ge",
+			"name": "Georgia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GE.svg"
+		},
+		{
+			"id": "gd",
+			"name": "Grenada",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GD.svg"
+		},
+		{
+			"id": "gb",
+			"name": "United Kingdom of Great Britain and Northern Ireland",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GB.svg"
+		},
+		{
+			"id": "ga",
+			"name": "Gabon",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/GA.svg"
+		},
+		{
+			"id": "fr",
+			"name": "France",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/FR.svg"
+		},
+		{
+			"id": "fo",
+			"name": "Faroe Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/FO.svg"
+		},
+		{
+			"id": "fm",
+			"name": "Micronesia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/FM.svg"
+		},
+		{
+			"id": "fk",
+			"name": "Falkland Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/FK.svg"
+		},
+		{
+			"id": "fj",
+			"name": "Fiji",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/FJ.svg"
+		},
+		{
+			"id": "fi",
+			"name": "Finland",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/FI.svg"
+		},
+		{
+			"id": "et",
+			"name": "Ethiopia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ET.svg"
+		},
+		{
+			"id": "es",
+			"name": "Spain",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ES.svg"
+		},
+		{
+			"id": "er",
+			"name": "Eritrea",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/ER.svg"
+		},
+		{
+			"id": "eh",
+			"name": "Western Sahara",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/EH.svg"
+		},
+		{
+			"id": "eg",
+			"name": "Egypt",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/EG.svg"
+		},
+		{
+			"id": "ee",
+			"name": "Estonia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/EE.svg"
+		},
+		{
+			"id": "ec",
+			"name": "Ecuador",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/EC.svg"
+		},
+		{
+			"id": "dz",
+			"name": "Algeria",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/DZ.svg"
+		},
+		{
+			"id": "do",
+			"name": "Dominican Republic",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/DO.svg"
+		},
+		{
+			"id": "dm",
+			"name": "Dominica",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/DM.svg"
+		},
+		{
+			"id": "dk",
+			"name": "Denmark",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/DK.svg"
+		},
+		{
+			"id": "dj",
+			"name": "Djibouti",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/DJ.svg"
+		},
+		{
+			"id": "de",
+			"name": "Germany",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/DE.svg"
+		},
+		{
+			"id": "cz",
+			"name": "Czechia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CZ.svg"
+		},
+		{
+			"id": "cy",
+			"name": "Cyprus",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CY.svg"
+		},
+		{
+			"id": "cx",
+			"name": "Christmas Island",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CX.svg"
+		},
+		{
+			"id": "cw",
+			"name": "Curaçao",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CW.svg"
+		},
+		{
+			"id": "cv",
+			"name": "Cabo Verde",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CV.svg"
+		},
+		{
+			"id": "cu",
+			"name": "Cuba",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CU.svg"
+		},
+		{
+			"id": "cr",
+			"name": "Costa Rica",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CR.svg"
+		},
+		{
+			"id": "co",
+			"name": "Colombia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CO.svg"
+		},
+		{
+			"id": "cn",
+			"name": "China",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CN.svg"
+		},
+		{
+			"id": "cm",
+			"name": "Cameroon",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CM.svg"
+		},
+		{
+			"id": "cl",
+			"name": "Chile",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CL.svg"
+		},
+		{
+			"id": "ck",
+			"name": "Cook Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CK.svg"
+		},
+		{
+			"id": "ci",
+			"name": "Côte d'Ivoire",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CI.svg"
+		},
+		{
+			"id": "ch",
+			"name": "Switzerland",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CH.svg"
+		},
+		{
+			"id": "cg",
+			"name": "Congo",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CG.svg"
+		},
+		{
+			"id": "cf",
+			"name": "Central African Republic",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CF.svg"
+		},
+		{
+			"id": "cd",
+			"name": "Congo",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CD.svg"
+		},
+		{
+			"id": "cc",
+			"name": "Cocos Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CC.svg"
+		},
+		{
+			"id": "ca",
+			"name": "Canada",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/CA.svg"
+		},
+		{
+			"id": "bz",
+			"name": "Belize",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BZ.svg"
+		},
+		{
+			"id": "by",
+			"name": "Belarus",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BY.svg"
+		},
+		{
+			"id": "bw",
+			"name": "Botswana",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BW.svg"
+		},
+		{
+			"id": "bv",
+			"name": "Bouvet Island",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BV.svg"
+		},
+		{
+			"id": "bt",
+			"name": "Bhutan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BT.svg"
+		},
+		{
+			"id": "bs",
+			"name": "Bahamas",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BS.svg"
+		},
+		{
+			"id": "br",
+			"name": "Brazil",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BR.svg"
+		},
+		{
+			"id": "bq",
+			"name": "Bonaire",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BQ.svg"
+		},
+		{
+			"id": "bo",
+			"name": "Bolivia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BO.svg"
+		},
+		{
+			"id": "bn",
+			"name": "Brunei Darussalam",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BN.svg"
+		},
+		{
+			"id": "bm",
+			"name": "Bermuda",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BM.svg"
+		},
+		{
+			"id": "bl",
+			"name": "Saint Barthélemy",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BL.svg"
+		},
+		{
+			"id": "bj",
+			"name": "Benin",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BJ.svg"
+		},
+		{
+			"id": "bi",
+			"name": "Burundi",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BI.svg"
+		},
+		{
+			"id": "bh",
+			"name": "Bahrain",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BH.svg"
+		},
+		{
+			"id": "bg",
+			"name": "Bulgaria",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BG.svg"
+		},
+		{
+			"id": "bf",
+			"name": "Burkina Faso",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BF.svg"
+		},
+		{
+			"id": "be",
+			"name": "Belgium",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BE.svg"
+		},
+		{
+			"id": "bd",
+			"name": "Bangladesh",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BD.svg"
+		},
+		{
+			"id": "bb",
+			"name": "Barbados",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BB.svg"
+		},
+		{
+			"id": "ba",
+			"name": "Bosnia and Herzegovina",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/BA.svg"
+		},
+		{
+			"id": "az",
+			"name": "Azerbaijan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AZ.svg"
+		},
+		{
+			"id": "ax",
+			"name": "Åland Islands",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AX.svg"
+		},
+		{
+			"id": "aw",
+			"name": "Aruba",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AW.svg"
+		},
+		{
+			"id": "au",
+			"name": "Australia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AU.svg"
+		},
+		{
+			"id": "at",
+			"name": "Austria",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AT.svg"
+		},
+		{
+			"id": "as",
+			"name": "American Samoa",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AS.svg"
+		},
+		{
+			"id": "ar",
+			"name": "Argentina",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AR.svg"
+		},
+		{
+			"id": "aq",
+			"name": "Antarctica",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AQ.svg"
+		},
+		{
+			"id": "ao",
+			"name": "Angola",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AO.svg"
+		},
+		{
+			"id": "am",
+			"name": "Armenia",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AM.svg"
+		},
+		{
+			"id": "al",
+			"name": "Albania",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AL.svg"
+		},
+		{
+			"id": "ai",
+			"name": "Anguilla",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AI.svg"
+		},
+		{
+			"id": "ag",
+			"name": "Antigua and Barbuda",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AG.svg"
+		},
+		{
+			"id": "af",
+			"name": "Afghanistan",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AF.svg"
+		},
+		{
+			"id": "ae",
+			"name": "United Arab Emirates",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AE.svg"
+		},
+		{
+			"id": "ad",
+			"name": "Andorra",
+			"genericFlag": "https://cdorg.b-cdn.net/flags/generic/AD.svg"
+		}]

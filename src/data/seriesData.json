@@ -1,0 +1,272 @@
+{
+	"apikey": "106ff446-17af-4e59-8070-2c4790d1ccd0",
+	"data": [
+		{
+			"id": "3be89e8f-6fbc-483c-b4bb-b73fde55733f",
+			"name": "India Women Under-19s tour of South Africa, 2022-23",
+			"startDate": "2022-12-27",
+			"endDate": "Jan 04",
+			"odi": 0,
+			"t20": 5,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "8087933a-cd0b-4adc-b7b9-a00c1dc75eb2",
+			"name": "Australia tour of India, 2023",
+			"startDate": "2023-02-09",
+			"endDate": "Mar 22",
+			"odi": 3,
+			"t20": 0,
+			"test": 4,
+			"squads": 0,
+			"matches": 7
+		},
+		{
+			"id": "9d9e4ce5-9683-4d01-9891-c0940557c405",
+			"name": "New Zealand tour of India, 2023",
+			"startDate": "2023-01-18",
+			"endDate": "Feb 01",
+			"odi": 3,
+			"t20": 3,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "e8528bc5-309b-4640-bcbd-3cb31941ff98",
+			"name": "Sri Lanka tour of India, 2023",
+			"startDate": "2023-01-03",
+			"endDate": "Jan 15",
+			"odi": 3,
+			"t20": 3,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "6dd9dbc3-2836-47b4-9b70-8c4e45c14359",
+			"name": "India A tour of Bangladesh, 2022",
+			"startDate": "2022-11-29",
+			"endDate": "Dec 09",
+			"odi": 0,
+			"t20": 0,
+			"test": 2,
+			"squads": 0,
+			"matches": 2
+		},
+		{
+			"id": "37455adf-e34d-4d39-aee7-526675824d7f",
+			"name": "Australia Women tour of India, 2022",
+			"startDate": "2022-12-09",
+			"endDate": "Dec 20",
+			"odi": 0,
+			"t20": 5,
+			"test": 0,
+			"squads": 0,
+			"matches": 5
+		},
+		{
+			"id": "7206be3f-c813-41fd-857a-eb97a654b84d",
+			"name": "India tour of Bangladesh, 2022",
+			"startDate": "2022-12-04",
+			"endDate": "Dec 26",
+			"odi": 3,
+			"t20": 0,
+			"test": 2,
+			"squads": 0,
+			"matches": 5
+		},
+		{
+			"id": "9dce2d40-6d94-475b-911b-9f5ba2f07901",
+			"name": "New Zealand A tour of India, 2022",
+			"startDate": "2022-09-01",
+			"endDate": "Sep 27",
+			"odi": 3,
+			"t20": 0,
+			"test": 3,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "69d354ae-5243-43d1-aeb3-37561527e7cb",
+			"name": "India Women tour of South Africa, 2001-02",
+			"startDate": "2002-03-07",
+			"endDate": "Mar 22",
+			"odi": 4,
+			"t20": 0,
+			"test": 1,
+			"squads": 0,
+			"matches": 1
+		},
+		{
+			"id": "7c196849-1b14-40db-b6c7-13f60a6b7c40",
+			"name": "South Africa tour of India, 2022",
+			"startDate": "2022-09-28",
+			"endDate": "Oct 11",
+			"odi": 3,
+			"t20": 3,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "d4712f5a-6360-4460-994a-f78c16340a13",
+			"name": "Australia tour of India, 2022",
+			"startDate": "2022-09-20",
+			"endDate": "Sep 25",
+			"odi": 0,
+			"t20": 3,
+			"test": 0,
+			"squads": 0,
+			"matches": 3
+		},
+		{
+			"id": "7f94191b-389e-4264-9f84-5a996c5925be",
+			"name": "India tour of Zimbabwe, 2022",
+			"startDate": "2022-08-18",
+			"endDate": "Aug 22",
+			"odi": 3,
+			"t20": 0,
+			"test": 0,
+			"squads": 0,
+			"matches": 3
+		},
+		{
+			"id": "9f39bdef-28d1-4d93-8dae-2032e5cd1b2e",
+			"name": "India tour of New Zealand, 2022",
+			"startDate": "2022-11-18",
+			"endDate": "Nov 30",
+			"odi": 3,
+			"t20": 3,
+			"test": 0,
+			"squads": 2,
+			"matches": 6
+		},
+		{
+			"id": "b290fb86-aae9-4284-9a52-854a8c4fe19c",
+			"name": "India Women tour of Sri Lanka, 2022",
+			"startDate": "2022-06-23",
+			"endDate": "Jul 07",
+			"odi": 0,
+			"t20": 2,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "1f42281c-6e8c-40bc-ae84-7a3f6872b6d0",
+			"name": "India tour of West Indies, 2022",
+			"startDate": "2022-07-22",
+			"endDate": "Aug 07",
+			"odi": 3,
+			"t20": 5,
+			"test": 0,
+			"squads": 2,
+			"matches": 8
+		},
+		{
+			"id": "bf98268d-af44-4258-8f0d-f894a84d7820",
+			"name": "India tour of Ireland, 2022",
+			"startDate": "2022-06-26",
+			"endDate": "Jun 28",
+			"odi": 0,
+			"t20": 2,
+			"test": 0,
+			"squads": 0,
+			"matches": 2
+		},
+		{
+			"id": "609a8eef-d782-44b3-b9f3-8a389c85cb90",
+			"name": "India Women tour of England, 2022",
+			"startDate": "2022-09-10",
+			"endDate": "Sep 24",
+			"odi": 3,
+			"t20": 3,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "47b54677-34de-4378-9019-154e82b9cc1a",
+			"name": "Indian Premier League 2022",
+			"shortName": "IPL2022",
+			"startDate": "2022-03-26",
+			"endDate": "May 29",
+			"odi": 0,
+			"t20": 70,
+			"test": 0,
+			"squads": 10,
+			"matches": 74
+		},
+		{
+			"id": "72b04949-3a5d-4e78-a4c3-c7bec8f9feed",
+			"name": "Sri Lanka tour of India, 2022",
+			"startDate": "2022-02-24",
+			"endDate": "Mar 16",
+			"odi": 0,
+			"t20": 3,
+			"test": 2,
+			"squads": 0,
+			"matches": 5
+		},
+		{
+			"id": "9c046ae5-d608-457a-a293-676bc2a9d456",
+			"name": "South Africa tour of India, 2022",
+			"startDate": "2022-06-09",
+			"endDate": "Jun 19",
+			"odi": 0,
+			"t20": 5,
+			"test": 0,
+			"squads": 0,
+			"matches": 5
+		},
+		{
+			"id": "88650923-87d7-4cf4-9032-1b7b71f1027a",
+			"name": "India tour of England, 2022",
+			"startDate": "2022-07-01",
+			"endDate": "Jul 17",
+			"odi": 3,
+			"t20": 3,
+			"test": 1,
+			"squads": 0,
+			"matches": 10
+		},
+		{
+			"id": "e9788cf4-f231-442e-921d-98cd1469e2dd",
+			"name": "West Indies tour of India, 2022",
+			"startDate": "2022-02-06",
+			"endDate": "Feb 20",
+			"odi": 3,
+			"t20": 3,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		},
+		{
+			"id": "83dccdf7-dac0-4281-bf0f-4fe6e37d427d",
+			"name": "India Women tour of New Zealand, 2022",
+			"startDate": "2022-02-09",
+			"endDate": "Feb 24",
+			"odi": 5,
+			"t20": 5,
+			"test": 0,
+			"squads": 0,
+			"matches": 6
+		}
+	],
+	"status": "success",
+	"info": {
+		"hitsToday": 18,
+		"hitsUsed": 1,
+		"hitsLimit": 100,
+		"credits": 0,
+		"server": 8,
+		"offsetRows": 0,
+		"totalRows": 23,
+		"queryTime": 18.9762,
+		"s": 0,
+		"cache": 0
+	}
+}
