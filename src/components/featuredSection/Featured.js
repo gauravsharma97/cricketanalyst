@@ -28,19 +28,24 @@ export default function Featured() {
         <img src={Ball} alt="ball" className="w-7 h-7"></img>
       </div>
       <div className="grid grid-cols-4">
-        {series.map((item) => (
-          <div key={item.id}>
-            <SeriesCard
-              id={item.id}
-              title={item.name}
-              from={item.startDate}
-              to={item.endDate}
-              t20={item.t20}
-              odi={item.odi}
-              test={item.test}
-            />
-          </div>
-        ))}
+        {series.map((item) => {
+          let url = "/series/" + item.id;
+          return (
+            <div key={item.id}>
+              <a href={url}>
+                <SeriesCard
+                  id={item.id}
+                  title={item.name}
+                  from={item.startDate}
+                  to={item.endDate}
+                  t20={item.t20}
+                  odi={item.odi}
+                  test={item.test}
+                />
+              </a>
+            </div>
+          );
+        })}
       </div>
     </>
   );

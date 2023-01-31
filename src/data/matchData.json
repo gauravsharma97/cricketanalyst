@@ -1,0 +1,239 @@
+{
+	"apikey": "106ff446-17af-4e59-8070-2c4790d1ccd0",
+	"data": {
+		"info": {
+			"id": "8087933a-cd0b-4adc-b7b9-a00c1dc75eb2",
+			"name": "Australia tour of India, 2023",
+			"startdate": "2023-02-09",
+			"enddate": "Mar 22",
+			"odi": 3,
+			"t20": 0,
+			"test": 4,
+			"squads": 0,
+			"matches": 7
+		},
+		"matchList": [
+			{
+				"id": "aa7bdd89-d368-4a5d-ba93-27b1cf6943b8",
+				"name": "India vs Australia, 1st Test",
+				"matchType": "test",
+				"status": "Match not started",
+				"venue": "Vidarbha Cricket Association Stadium, Nagpur",
+				"date": "2023-02-09",
+				"dateTimeGMT": "2023-02-09T04:00:00",
+				"teams": [
+					"India",
+					"Australia"
+				],
+				"teamInfo": [
+					{
+						"name": "Australia",
+						"shortname": "AUS",
+						"img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+					},
+					{
+						"name": "India",
+						"shortname": "IND",
+						"img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+					}
+				],
+				"fantasyEnabled": false,
+				"bbbEnabled": false,
+				"hasSquad": false,
+				"matchStarted": false,
+				"matchEnded": false
+			},
+			{
+				"id": "4d330355-d213-4d1b-bc64-19c02393dfca",
+				"name": "India vs Australia, 2nd Test",
+				"matchType": "test",
+				"status": "Match not started",
+				"venue": "Arun Jaitley Stadium, Delhi",
+				"date": "2023-02-17",
+				"dateTimeGMT": "2023-02-17T04:00:00",
+				"teams": [
+					"India",
+					"Australia"
+				],
+				"teamInfo": [
+					{
+						"name": "Australia",
+						"shortname": "AUS",
+						"img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+					},
+					{
+						"name": "India",
+						"shortname": "IND",
+						"img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+					}
+				],
+				"fantasyEnabled": false,
+				"bbbEnabled": false,
+				"hasSquad": false,
+				"matchStarted": false,
+				"matchEnded": false
+			},
+			{
+				"id": "b1a4256d-b55a-41e8-b947-7c535a37359f",
+				"name": "India vs Australia, 3rd Test",
+				"matchType": "test",
+				"status": "Match not started",
+				"venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+				"date": "2023-03-01",
+				"dateTimeGMT": "2023-03-01T04:00:00",
+				"teams": [
+					"India",
+					"Australia"
+				],
+				"teamInfo": [
+					{
+						"name": "Australia",
+						"shortname": "AUS",
+						"img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+					},
+					{
+						"name": "India",
+						"shortname": "IND",
+						"img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+					}
+				],
+				"fantasyEnabled": false,
+				"bbbEnabled": false,
+				"hasSquad": false,
+				"matchStarted": false,
+				"matchEnded": false
+			},
+			{
+				"id": "605d0237-dc00-4092-ac8d-9621798a8ef6",
+				"name": "India vs Australia, 4th Test",
+				"matchType": "test",
+				"status": "Match not started",
+				"venue": "Narendra Modi Stadium, Ahmedabad",
+				"date": "2023-03-09",
+				"dateTimeGMT": "2023-03-09T04:00:00",
+				"teams": [
+					"India",
+					"Australia"
+				],
+				"teamInfo": [
+					{
+						"name": "Australia",
+						"shortname": "AUS",
+						"img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+					},
+					{
+						"name": "India",
+						"shortname": "IND",
+						"img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+					}
+				],
+				"fantasyEnabled": false,
+				"bbbEnabled": false,
+				"hasSquad": false,
+				"matchStarted": false,
+				"matchEnded": false
+			},
+			{
+				"id": "c14ee27f-1612-4c78-aad0-c5276aef6b5f",
+				"name": "India vs Australia, 1st ODI",
+				"matchType": "odi",
+				"status": "Match not started",
+				"venue": "Wankhede Stadium, Mumbai",
+				"date": "2023-03-17",
+				"dateTimeGMT": "2023-03-17T04:30:00",
+				"teams": [
+					"India",
+					"Australia"
+				],
+				"teamInfo": [
+					{
+						"name": "Australia",
+						"shortname": "AUS",
+						"img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+					},
+					{
+						"name": "India",
+						"shortname": "IND",
+						"img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+					}
+				],
+				"fantasyEnabled": false,
+				"bbbEnabled": false,
+				"hasSquad": false,
+				"matchStarted": false,
+				"matchEnded": false
+			},
+			{
+				"id": "5680cc38-67bf-49a1-a9e3-5a5813df62f1",
+				"name": "India vs Australia, 2nd ODI",
+				"matchType": "odi",
+				"status": "Match not started",
+				"venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+				"date": "2023-03-19",
+				"dateTimeGMT": "2023-03-19T04:30:00",
+				"teams": [
+					"India",
+					"Australia"
+				],
+				"teamInfo": [
+					{
+						"name": "Australia",
+						"shortname": "AUS",
+						"img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+					},
+					{
+						"name": "India",
+						"shortname": "IND",
+						"img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+					}
+				],
+				"fantasyEnabled": false,
+				"bbbEnabled": false,
+				"hasSquad": false,
+				"matchStarted": false,
+				"matchEnded": false
+			},
+			{
+				"id": "617d1376-782f-4eaa-a3cb-5ed40b5595f6",
+				"name": "India vs Australia, 3rd ODI",
+				"matchType": "odi",
+				"status": "Match not started",
+				"venue": "MA Chidambaram Stadium, Chennai",
+				"date": "2023-03-22",
+				"dateTimeGMT": "2023-03-22T04:30:00",
+				"teams": [
+					"India",
+					"Australia"
+				],
+				"teamInfo": [
+					{
+						"name": "Australia",
+						"shortname": "AUS",
+						"img": "https://g.cricapi.com/img/teams/6-637877070670541994.webp"
+					},
+					{
+						"name": "India",
+						"shortname": "IND",
+						"img": "https://g.cricapi.com/img/teams/31-637877061080567215.webp"
+					}
+				],
+				"fantasyEnabled": false,
+				"bbbEnabled": false,
+				"hasSquad": false,
+				"matchStarted": false,
+				"matchEnded": false
+			}
+		]
+	},
+	"status": "success",
+	"info": {
+		"hitsToday": 1,
+		"hitsUsed": 1,
+		"hitsLimit": 100,
+		"credits": 0,
+		"server": 6,
+		"queryTime": 52.28,
+		"s": 0,
+		"cache": 0
+	}
+}
