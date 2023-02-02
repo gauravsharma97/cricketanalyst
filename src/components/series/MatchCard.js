@@ -2,7 +2,7 @@ import React from "react";
 
 export default function MatchCard(props) {
   return (
-    <div className="ml-32 bg-yellow-200 w-[80%] text-white mb-5 rounded-lg cursor-pointer">
+    <div className="ml-32 bg-yellow-200 w-[80%] text-white mb-5 rounded-lg ">
       <div className="flex justify-around items-center">
         <img src={props.img1} alt="aus" className="w-20"></img>
         <div className="text-3xl text-black font-sans font-extrabold">
