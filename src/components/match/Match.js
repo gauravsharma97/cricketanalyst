@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import Loader from "../common/Loader";
 import MatchRenderComponent from "./MatchRenderComponent";
-import Scorecard from "./Scorecard";
 
 let loadingAnimation = true;
 export default function Match() {

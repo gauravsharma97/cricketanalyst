@@ -8,30 +8,19 @@ let testMatch = [];
 let odiMatch = [];
 let t20Match = [];
 let loadingAnimation = true;
-let firstTime = true;
 
 export default function Series(props) {
   const [matches, setMatches] = useState([]);
   const [title, setTitle] = useState("");
+  const [selectedTab, setSelectedTab] = useState(0);
   const seriesID = useLocation().pathname.substring(8);
-  const onClickedFunction = async (divId) => {
-    let setStyle =
-      "bg-green-900 text-white pr-32 pl-4 rounded-t  rounded-b-none w-96 cursor-pointer";
-    let removeStyle = "pr-32 pl-4 rounded-t rounded-b-none w-96 cursor-pointer";
-    if (divId === "test") {
-      document.getElementById("test").className = setStyle;
-      document.getElementById("odi").className = removeStyle;
-      document.getElementById("t20").className = removeStyle;
+  const onClickedFunction =  (divId) => {
+    setSelectedTab(divId)
+    if (divId === 0) {
       setMatches(testMatch);
-    } else if (divId === "odi") {
-      document.getElementById("odi").className = setStyle;
-      document.getElementById("test").className = removeStyle;
-      document.getElementById("t20").className = removeStyle;
+    } else if (divId === 1) {
       setMatches(odiMatch);
-    } else if (divId === "t20") {
-      document.getElementById("t20").className = setStyle;
-      document.getElementById("test").className = removeStyle;
-      document.getElementById("odi").className = removeStyle;
+    } else if (divId === 2) {
       setMatches(t20Match);
     }
   };
@@ -40,15 +29,6 @@ export default function Series(props) {
     testMatch = [];
     odiMatch = [];
     t20Match = [];
-
-    // const data = await fetch(
-    //   "https://api.cricapi.com/v1/series_info?apikey=106ff446-17af-4e59-8070-2c4790d1ccd0&offset=0&id=" +
-    //     seriesID
-    // );
-    // const parsedData = await data.json();
-    // let matchList = await parsedData.data.matchList;
-    // setTitle(parsedData.data.info.name);
-
     fetch(
       "https://api.cricapi.com/v1/series_info?apikey=106ff446-17af-4e59-8070-2c4790d1ccd0&offset=0&id=" +
         seriesID
@@ -67,24 +47,20 @@ export default function Series(props) {
             t20Match.push(match);
           }
         }
+        if (testMatch.length > 0) {
+          onClickedFunction(0);
+        } else if (odiMatch.length > 0) {
+          onClickedFunction(1);
+        } else if (t20Match.length > 0) {
+          onClickedFunction(2);
+        }
         loadingAnimation = false;
       })
       .catch((err) => console.error(err));
   };
-  const onClickCS = () => {
-    console.log(odiMatch.length);
-    if (testMatch.length > 0) {
-      onClickedFunction("test");
-    } else if (odiMatch.length > 0) {
-      onClickedFunction("odi");
-    } else if (t20Match.length > 0) {
-      onClickedFunction("t20");
-    }
-    firstTime = false;
-  };
+  
   useEffect(() => {
     getMatchesOfSeries();
-
     // eslint-disable-next-line
   }, []);
   return (
@@ -96,22 +72,28 @@ export default function Series(props) {
           </div>
           <div className="flex  text-2xl font-mono font-semibold text-green-900 mt-9 ml-32 w-[85.25%]">
             <div
-              className="pr-32 pl-4 rounded-t rounded-b-none w-96 cursor-pointer "
-              onClick={() => onClickedFunction("test")}
+            className=
+            {selectedTab===0 ? "bg-green-900 text-white pr-32 pl-4 rounded-t  rounded-b-none w-96 cursor-pointer" :"pr-32 pl-4 rounded-t rounded-b-none w-96 cursor-pointer" }
+             
+              onClick={() => onClickedFunction(0)}
               id="test"
             >
               Test
             </div>
             <div
-              className="pr-32 pl-4 rounded-b-none w-96 cursor-pointer"
-              onClick={() => onClickedFunction("odi")}
+           className=
+           {selectedTab===1 ? "bg-green-900 text-white pr-32 pl-4 rounded-t  rounded-b-none w-96 cursor-pointer" :"pr-32 pl-4 rounded-t rounded-b-none w-96 cursor-pointer" }
+            
+              onClick={() => onClickedFunction(1)}
               id="odi"
             >
               ODI
             </div>
             <div
-              className="pr-32 pl-4 rounded-b-none w-96 cursor-pointer"
-              onClick={() => onClickedFunction("t20")}
+              className=
+              {selectedTab===2 ? "bg-green-900 text-white pr-32 pl-4 rounded-t  rounded-b-none w-96 cursor-pointer" :"pr-32 pl-4 rounded-t rounded-b-none w-96 cursor-pointer" }
+               
+              onClick={() => onClickedFunction(2)}
               id="t20"
             >
               T<sub>20</sub>

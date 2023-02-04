@@ -1,18 +1,16 @@
 import React, { useEffect, useState } from "react";
 import Ball from "../../resources/ball.png";
 import SeriesCard from "../common/SeriesCard.js";
-import SeriesData from "../../data/seriesData.json";
 
 export default function Featured() {
   const [series, setSeries] = useState([]);
 
   const getSeries = async () => {
-    // await fetch('https://api.cricapi.com/v1/series?apikey=106ff446-17af-4e59-8070-2c4790d1ccd0&offset=0&search=India')
-    //   .then(response => response.json())
-    //   .then(response => setSeries(response.data))
-    //   .catch(err => console.error(err));
+    await fetch('https://api.cricapi.com/v1/series?apikey=106ff446-17af-4e59-8070-2c4790d1ccd0&offset=0&search=India')
+      .then(response => response.json())
+      .then(response => setSeries(response.data))
+      .catch(err => console.error(err));
 
-    await setSeries(SeriesData.data);
   };
 
   useEffect(() => {
